@@ -10,7 +10,7 @@ A simple, customizable digital clock built with HTML, CSS, and JavaScript. This 
 
 ## Demo
 
-You can check out a live demo of the clock [here](https://abhishekmohank.github.io/clock/).
+You can check out a live demo of the clock [here](https://codepen.io/moto-cat/pen/LYwLobK).
 
 ## Installation
 
